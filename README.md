@@ -1,2 +1,2 @@
 # Test2
-test2 repo
+test 2 repo for get commands demo
